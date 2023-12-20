@@ -1,0 +1,1 @@
+JavascriptのIF分の練習です。
